@@ -1,0 +1,14 @@
+ro 
+semt UV
+
+x8 : NO hot water 8 tds : 21500
+Z8 ; HOT WATR           : 25500  22k 10 lts tds ts
+X4+ :                   : 17450
+Z9			: 27250 button digital
+
+
+ro + 
+
+
+
+66334516
